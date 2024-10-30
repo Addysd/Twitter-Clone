@@ -32,7 +32,7 @@ A social media application that allows users to create, comment, like, and manag
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
    
 2. Build the app
 
