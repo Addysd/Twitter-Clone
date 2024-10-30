@@ -33,9 +33,7 @@ A social media application that allows users to create, comment, like, and manag
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/twitter-clone.git
-   cd twitter-clone
+   
 2. Build the app
 
    ```shell
