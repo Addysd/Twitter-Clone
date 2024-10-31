@@ -1,4 +1,4 @@
-# Twitter(Work in Progress)
+# Twitter
 
 A social media application that allows users to create, comment, like, and manage their posts. This project is built using the MERN stack (MongoDB, Express, React.js, Node.js) and features user authentication, image uploads, and real-time notifications.
 
